@@ -15,5 +15,5 @@ Software ( Linux (ARMbian), Emby ( Mono + ffmpeg ), DnsMasq, Custom scripts)
 
 
 
-
+https://drive.google.com/open?id=1xXbV4lvRTJjBPl1C20DJjipe4cAuxMAI
 
